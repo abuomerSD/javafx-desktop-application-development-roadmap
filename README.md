@@ -22,5 +22,8 @@ You can view my Porfolio here >> [Portfolio](https://eltayebibrahim.netlify.app/
 
 | language | resources |
 | ------ | ------ |
-|Arabic ||
-|Engilsh ||
+| Arabic |[اساسيات لغة جافا - المهندس محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN817O88GXt4xAPmM2bD7pLN)  - [جافا متقدم - المهندس محمد عيسي](https://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnK)|
+| Engilsh |[Full Java Course by Alex Lee](https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ)|
+
+##### Reading:
+[Java Tutorial - W3Schools](https://www.w3schools.com/java/default.asp)
