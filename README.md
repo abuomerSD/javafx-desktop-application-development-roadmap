@@ -97,6 +97,7 @@ JavaFX is a Java library used for building rich client applications with modern,
 
 #### (5) Jasper Reports:
 JasperReports is an open-source Java reporting tool used for generating dynamic reports from various data sources. It allows developers to create highly customizable reports in formats like PDF, HTML, Excel, Word, CSV, and more.
+
 ![Jasper Reports Logo](https://resotel.net.ma/img/formation_images/085bcb597bbd610a7f0f955301d0fe3734b92a71.png)
 
 
@@ -131,3 +132,10 @@ Hibernate is an Object-Relational Mapping (ORM) framework for Java that simplifi
 | language | resources |
 | ------ | ------ |
 | English | [Hibernate Tutorial - Tutorials Point](https://www.tutorialspoint.com/hibernate/index.htm) |
+
+### Finally:
+After you have completed this roadmap it's better to watch full JavaFX Projects Creation I suggest  you to watch this Playlists : 
+
+| Tutorial Name |  
+| ------ |
+| [JavaFX Library Management System - Genuine Coder](https://www.youtube.com/playlist?list=PLhs1urmduZ29jTcE1ca8Z6bZNvH_39ayL) |
