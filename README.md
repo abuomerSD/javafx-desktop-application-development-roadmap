@@ -59,7 +59,7 @@ SQL (Structured Query Language) is a standardized programming language used to m
 #### (3) Java Database Connectivity (JDBC):
 JDBC (Java Database Connectivity) is an API (Application Programming Interface) in Java that allows applications to interact with relational databases. It provides a standard way for Java applications to connect to databases, execute SQL queries, and retrieve results.
 
-![JDBC Logo](https://www.oracle.com/a/ocom/img/jdbc.svg)
+![JDBC Logo](https://images.squarespace-cdn.com/content/v1/5ab8b930a2772cd50e5d979a/1626266492150-XE0OSNI2L2SNYGTVRZ6J/Screen+Shot+2021-07-14+at+2.41.19+PM.png?format=750w)
 
 ##### Videos:
 
@@ -85,5 +85,49 @@ JavaFX is a Java library used for building rich client applications with modern,
 | language | resources |
 | ------ | ------ |
 | Arabic | [JavaFX - المهندس محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-IphjimBV9AB6SxcL85aqW) & [JavaFX and MySql - المهندس محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8hhesatJ4gktm6IOZykVpv)|
-| English |  |
+| English | [JavaFX - the new boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG) |
 
+##### Reading:
+
+| language | resources |
+| ------ | ------ |
+| Arabic | [  JavaFX - موقع هرمش ](https://harmash.com/tutorials/javafx/overview) |
+| English | [JavaFX Tutorial - Tutorials Point](https://www.tutorialspoint.com/javafx/index.htm) |
+
+
+#### (5) Jasper Reports:
+JasperReports is an open-source Java reporting tool used for generating dynamic reports from various data sources. It allows developers to create highly customizable reports in formats like PDF, HTML, Excel, Word, CSV, and more.
+![Jasper Reports Logo](https://resotel.net.ma/img/formation_images/085bcb597bbd610a7f0f955301d0fe3734b92a71.png)
+
+
+##### Videos:
+
+| language | resources |
+| ------ | ------ |
+| Arabic | [Jasper Reports - المهندس محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9gbYsro5UDBl8KCYi6mZSa) |
+| English | [Jasper Reports - Ankur Gupta ](https://www.youtube.com/playlist?list=PLVFz9EimJZxCy9oakUYi65s6RfcPqRQxS) |
+
+##### Reading:
+
+| language | resources |
+| ------ | ------ |
+| English | [Jasper Reports Tutorial - Tutorials Point](https://www.tutorialspoint.com/jasper_reports/index.htm) |
+
+#### (6) Hibernate:
+
+Hibernate is an Object-Relational Mapping (ORM) framework for Java that simplifies database interactions by mapping Java objects to database tables. It eliminates the need for writing complex SQL queries by allowing developers to interact with databases using Java objects.
+
+![Hibernate Logo](https://hibernate.org/images/hibernate-logo.svg)
+
+##### Videos:
+
+| language | resources |
+| ------ | ------ |
+| English | [Hibernate Tutorial for Beginners - Telusko  ](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) | 
+
+
+##### Reading:
+
+| language | resources |
+| ------ | ------ |
+| English | [Hibernate Tutorial - Tutorials Point](https://www.tutorialspoint.com/hibernate/index.htm) |
