@@ -139,3 +139,4 @@ After you have completed this roadmap it's better to watch full JavaFX Projects 
 | Tutorial Name |  
 | ------ |
 | [JavaFX Library Management System - Genuine Coder](https://www.youtube.com/playlist?list=PLhs1urmduZ29jTcE1ca8Z6bZNvH_39ayL) |
+| [JavaFX and MySQL POS - xemacscode](https://www.youtube.com/playlist?list=PLsYEJ7V7BZ1WvA2KeUlTlOHX1oaA3oNgI) |
